@@ -1,0 +1,5 @@
+Edad,Ingresos Mensuales (COP),Score de Historial Crediticio (0 a 1),Deuda Actual Total (COP),Resultado y Nota Legal,Distribución de Probabilidad,timestamp
+30.6,3500000,1,1000000," CRÉDITO APROBADO (Probabilidad: 100.0%)
+
+*Cumplimiento Ley 1581/2012:* Decisión generada mediante procesamiento automatizado. El usuario conserva derecho a revisión y rectificación.","{""label"": ""Aprobado"", ""confidences"": [{""label"": ""Aprobado"", ""confidence"": 0.9999961853027344}, {""label"": ""Rechazado"", ""confidence"": 3.814697265625e-06}]}",2026-10-30 10:24:30.336903
+30,3500000,0.8,1000000,,"{""label"": null, ""confidences"": null}",2026-10-30 10:49:20.983523
