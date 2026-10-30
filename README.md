@@ -32,7 +32,7 @@ El desarrollo contempla las siguientes normativas:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/mvp_redes_neuronales.git](https://github.com/Nandoreyes/mvp_redes_neuronales.git)
+   git clone https://github.com/Nandoreyes/mvp_redes_neuronales.git
    cd mvp_redes_neuronales
 
   
