@@ -49,6 +49,11 @@ python -m venv venv
 # En macOS/Linux:
 source venv/bin/activate
 
+
+
+
+
+
 3. Instalar dependencias:
 
 Bash
