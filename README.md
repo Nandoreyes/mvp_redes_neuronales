@@ -1,16 +1,16 @@
-# 🏦 MVP: Evaluación Automatizada de Crédito y Marco Legal de IA en Colombia
+#  MVP: Evaluación Automatizada de Crédito y Marco Legal de IA en Colombia
 
 Este repositorio contiene un Producto Mínimo Viable (MVP) desarrollado para la asignatura de **Programación Avanzada**. Consiste en un modelo de red neuronal profunda implementado en **PyTorch** con una interfaz gráfica en **Gradio**, orientado a la evaluación automatizada de solicitudes de crédito y alineado con la normativa colombiana de protección de datos personales.
 
 ---
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 El sistema evalúa variables financieras y demográficas de un usuario para predecir la probabilidad de aprobación de un crédito mediante clasificación binaria. Se enfoca no solo en la precisión técnica, sino también en el cumplimiento del derecho a la explicabilidad y la protección de datos sensibles en decisiones automatizadas.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3.13+
 * **Framework DL:** PyTorch (`torch`)
@@ -20,7 +20,7 @@ El sistema evalúa variables financieras y demográficas de un usuario para pred
 
 ---
 
-## ⚖️ Marco Legal Colombiano Aplicado
+##  Marco Legal Colombiano Aplicado
 
 El desarrollo contempla las siguientes normativas:
 * **Ley 1581 de 2012 (Habeas Data):** Garantía del derecho del titular a conocer, actualizar y rectificar la información recolectada en bases de datos.
@@ -28,7 +28,7 @@ El desarrollo contempla las siguientes normativas:
 
 ---
 
-## 🚀 Instalación y Ejecución
+##  Instalación y Ejecución
 
 1. **Clonar el repositorio:**
    ```bash
@@ -43,10 +43,10 @@ El desarrollo contempla las siguientes normativas:
 PowerShell
 python -m venv venv
 
-# En Windows (PowerShell):
+ En Windows (PowerShell):
 .\venv\Scripts\activate
 
-# En macOS/Linux:
+ En macOS/Linux:
 source venv/bin/activate
 
 
@@ -67,7 +67,7 @@ python app.py
 
 
 
-💻 Arquitectura de la Red Neuronal
+ Arquitectura de la Red Neuronal
 Capa de Entrada: 4 características (Edad, Ingresos, Historial Crediticio, Deuda).
 
 Capa Oculta 1: 16 neuronas con activación ReLU.
